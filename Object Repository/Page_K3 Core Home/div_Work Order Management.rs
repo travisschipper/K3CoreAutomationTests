@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Work Order Management</name>
+   <tag></tag>
+   <elementGuidId>6f746b85-b3ea-4246-b465-7f3f22e049eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b7-Content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b7-Content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2c2a13f-7a8c-489e-8b99-9f323eaa0cfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ph card card-content card-detail</value>
+      <webElementGuid>a1a84f46-3f31-4cb6-b8dc-3230000e14fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b7-Content</value>
+      <webElementGuid>55e637f5-a020-46dd-bdd4-e663cad94385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Work Order Management</value>
+      <webElementGuid>1eb29b84-611a-44a7-9528-0478ccce296c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b7-Content&quot;)</value>
+      <webElementGuid>06a1241d-b4b0-405a-912c-a878152988b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='b7-Content']</value>
+      <webElementGuid>bb39ff5f-3266-42aa-9380-049c15d33e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='$b7']/div</value>
+      <webElementGuid>82093f10-77d1-4079-9829-24f08e63f227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moxie'])[1]/following::div[9]</value>
+      <webElementGuid>45c14428-1305-4c8c-ac46-65f0af9cfab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K3 Core Platform'])[1]/following::div[15]</value>
+      <webElementGuid>d509707c-3b20-4447-9efd-2296bcae3ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduler'])[1]/preceding::div[4]</value>
+      <webElementGuid>97cdedd8-8ac6-45e7-b666-726d3b532e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>a95f8cc2-68ea-4ef9-9502-82488c1eb5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'b7-Content' and (text() = 'Work Order Management' or . = 'Work Order Management')]</value>
+      <webElementGuid>ca3cbb91-02f1-4dc3-a3d1-366fcc7538e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
