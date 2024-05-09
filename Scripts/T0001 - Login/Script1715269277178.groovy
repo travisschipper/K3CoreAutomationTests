@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Page_Login/input_Password_Checkbox
 
 WebUI.click(findTestObject('Object Repository/Page_Login/button_Login'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_K3 Core Home/span_Work Order Management'), 5)
+WebUI.verifyElementPresent(findTestObject('Page_K3 Core Home/div_Work Order Management'), 5)
 
 WebUI.closeBrowser()
 

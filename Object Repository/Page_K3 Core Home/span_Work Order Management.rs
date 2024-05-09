@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='b7-Content']/div[2]/span</value>
+         <value>//*/text()[normalize-space(.)='Work Order Management']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6b80cf5b-8e02-479f-8969-a8b278b495ae</webElementGuid>
+      <webElementGuid>8c34a5c1-21da-4716-bac1-63a55ffd7964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>heading5</value>
-      <webElementGuid>4c04eb21-b42c-4c2e-a1b1-d0f575f75444</webElementGuid>
+      <webElementGuid>39da5658-871e-4710-96a4-81469ab09a03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Work Order Management</value>
-      <webElementGuid>bc69bacb-9891-465e-9aea-025bbe99b4fb</webElementGuid>
+      <webElementGuid>343f32dc-2594-48f5-8f05-81f406a8a805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b7-Content&quot;)/div[@class=&quot;card-detail-center&quot;]/span[@class=&quot;heading5&quot;]</value>
-      <webElementGuid>78d05495-d295-4868-b444-5c74c08cd26d</webElementGuid>
+      <webElementGuid>93c805d4-dd0a-4b5f-8e1b-de8d422132d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b7-Content']/div[2]/span</value>
-      <webElementGuid>9c9ff379-3e3a-405f-8859-106070e543f5</webElementGuid>
+      <webElementGuid>52c3bf85-bfdb-40e8-9cf4-de090660d967</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Moxie'])[1]/following::span[1]</value>
-      <webElementGuid>d1ca7bc2-1957-4a45-8118-8aaa598c96c9</webElementGuid>
+      <webElementGuid>bf56e361-c9ad-4aa5-a911-c027901482ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='K3 Core Platform'])[1]/following::span[2]</value>
-      <webElementGuid>1c967649-4802-4266-82f0-2eb7a1b84f81</webElementGuid>
+      <webElementGuid>28b83890-e814-4081-96ae-54495922df76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduler'])[1]/preceding::span[1]</value>
-      <webElementGuid>762d67e6-2b93-4b74-b9ec-5a6dc9937823</webElementGuid>
+      <webElementGuid>81d2cf74-46e0-41bc-a5b4-8ac1ffdeb658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BDM Dashboard'])[1]/preceding::span[2]</value>
-      <webElementGuid>3d92cd09-d953-4986-92b7-074e838be3e1</webElementGuid>
+      <webElementGuid>3e587985-03d2-49c1-972b-3aa253bab9aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Work Order Management']/parent::*</value>
-      <webElementGuid>2961414c-09c2-4e27-8b18-017b0a3e9a4d</webElementGuid>
+      <webElementGuid>18a31f6e-711f-409b-948b-8f67ccae51ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span</value>
-      <webElementGuid>f479aa83-69b9-49f6-8831-3055e7338d78</webElementGuid>
+      <webElementGuid>3819e5f2-ded8-4efd-b321-562e301094db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Work Order Management' or . = 'Work Order Management')]</value>
-      <webElementGuid>31e5a896-33bd-4a84-a43c-38d4af479b09</webElementGuid>
+      <webElementGuid>0d37821a-469d-4b0f-8376-84a31adfd099</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
