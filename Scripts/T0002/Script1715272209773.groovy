@@ -25,6 +25,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Passwo
 
 WebUI.click(findTestObject('Object Repository/Page_Login/button_Login'))
 
+WebUI.rightClick(findTestObject('Object Repository/Page_K3 Core Home/span_Work Order Management'))
+
 WebUI.click(findTestObject('Object Repository/Page_K3 Core Home/span_Work Order Management'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Work Orders  K3Core/h1_Work Order List'), 5)
